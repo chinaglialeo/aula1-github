@@ -17,6 +17,8 @@ public class Main {
 		System.out.printf("AREA = %.2f%n", area);
 		System.out.printf("PRECO = %.2f%n", preco);
 		
+		System.out.printf("Tenha um bom dia!");
+		
 		sc.close();
 	}
 }
